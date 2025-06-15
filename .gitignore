@@ -61,5 +61,3 @@ macos/Runner/GoogleService-Info.plist
 *.log
 *.lock
 *.tmp
-/firebase.json
-/lib/firebase_options.dart
